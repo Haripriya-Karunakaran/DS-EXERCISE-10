@@ -167,8 +167,6 @@ plt.show()
 
 ## RESULT:
 
-Thus the Data Visualization and Feature Generation/Feature Selection Techniques for the given dataset had been executed
-
-successfully
+Thus the Data Visualization and Feature Generation/Feature Selection Techniques for the given dataset had been executed successfully
 
 
