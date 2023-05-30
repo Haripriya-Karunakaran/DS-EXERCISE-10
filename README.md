@@ -1,4 +1,4 @@
-# DS-EXERCISE-10
+# DS-EXERCISE-10  
 
 # AIM :
 
@@ -138,5 +138,37 @@ plt.show()
 ![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/e9b3d45d-8441-4bf1-9894-62e6187bfa57)
 
 ![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/7aa3069e-a517-4d5e-8ac7-c210b566c5ad)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/e609c369-8ff4-4b9a-9878-687e2af58779)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/36c264a8-247a-4cea-a3fe-4dee5175f2e1)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/07e3b5c5-f3d4-408a-9304-956e492c7b22)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/91027976-e33d-4592-ad85-75999ea0c980)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/6713b7c3-92f8-499f-b533-4766bb974432)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/7f47bf7a-3c16-4e1a-9777-d2dad17ee15b)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/fd23d808-2ebc-441c-a370-95437013a401)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/87f63a52-af16-4689-8982-ecbea4c900ef)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/b890683b-8cb4-47c7-bd34-68ae24ab4655)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/8d8bdf64-cd0c-44b6-bd12-37464ad85e3f)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/cb7045be-c3b8-4db2-8354-2af774b4800d)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/536ff592-a606-4169-98ff-0904916d0489)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-10/assets/126390051/3a1ee0bb-60c0-4568-832d-a8d7537a98dd)
+
+## RESULT:
+
+Thus the Data Visualization and Feature Generation/Feature Selection Techniques for the given dataset had been executed
+
+successfully
 
 
